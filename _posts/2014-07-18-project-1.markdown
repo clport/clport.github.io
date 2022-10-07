@@ -1,12 +1,11 @@
 ---
 layout: default
-modal-id: 4
-date: 2010-01-18
-img: halloween.png
+modal-id: 1
+date: 2022-10-06
+img: cabin.png
 alt: image-alt
-project-date: January 2020
-client: The Client
+project-date: April 2014
+client: Start Bootstrap
 category: Web Development
-description: halloween 1979
-
+description: My first post !!Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---

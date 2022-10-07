@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 4
-date: 2014-07-15
+modal-id: 7
+date: 2022-10-06
 img: game.png
 alt: image-alt
 project-date: April 2014
