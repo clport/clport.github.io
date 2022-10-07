@@ -36,6 +36,39 @@ h6 {
     font-weight: 700;
 }
 
+hr.check-light,
+hr.check-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+    overflow: visible;
+}
+
+hr.check-light:after,
+hr.check-primary:after {
+    content: "\f00c";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+hr.check-light {
+    border-color: #fff;
+}
+
+hr.check-light:after {
+    color: #fff;
+    background-color: #{{ site.color.primary }};
+}
+
+
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
