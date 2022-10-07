@@ -5,8 +5,7 @@ date: 2022-10-06
 img: truck.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+link: <a href="https://dribbble.com/shots/19488995-Penguins-Poster">
 category: product
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-img: altar.png
+description: Use this area of the page to describe your project.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
