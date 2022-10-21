@@ -36,6 +36,7 @@ h6 {
     font-weight: 700;
 }
 
+/* check  */
 hr.check-light,
 hr.check-primary {
     margin: 25px auto 30px;
@@ -68,7 +69,7 @@ hr.check-light:after {
 }
 
 
-
+/* star  */
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
