@@ -51,8 +51,8 @@ social:
     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: NYC
+ #address:
+  #- line: NYC
 
 # Credits content
 # credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
